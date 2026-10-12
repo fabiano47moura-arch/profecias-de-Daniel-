@@ -1,5 +1,5 @@
 # profecias-de-Daniel-
-explicação sobre visões de Daniel.
+explicação sobre visões de Daniel...
 ====================================================================
 📱 NOME DO APLICATIVO: Pesquisas Bíblicas - Profecias & Esperança
 ✍️ AUTOR & DESENVOLVEDOR: Fabiano
