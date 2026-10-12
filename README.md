@@ -1,7 +1,5 @@
 # profecias-de-Daniel-
-explicação sobre visões de Daniel e sua tradução 
-Aqui está o módulo completo de estudos bíblicos estruturado no formato Perguntas e Respostas, prontinho para você copiar e usar no seu aplicativo!
-Já incluí o seu nome (Fabiano) como autor/desenvolvedor do aplicativo e o nome do estudo.
+explicação sobre visões de Daniel.
 ====================================================================
 📱 NOME DO APLICATIVO: Pesquisas Bíblicas - Profecias & Esperança
 ✍️ AUTOR & DESENVOLVEDOR: Fabiano
